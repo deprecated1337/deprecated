@@ -11,18 +11,6 @@
         "Designed and tested mitigation strategies.",
         "Presented findings in student-led research groups."
       ]
-    },
-    {
-      "company": "Freelance / Personal Projects",
-      "position": "Web Developer & Bot Creator",
-      "period": "2022 – Present",
-      "description": "Built and deployed small-scale web applications and Telegram bots focusing on user interaction and customization.",
-      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Telegram API"],
-      "achievements": [
-        "Developed a Telegram networking bot with user plans.",
-        "Designed responsive frontend interfaces.",
-        "Explored UI/UX design principles."
-      ]
     }
   ],
   "projects": [
@@ -32,18 +20,10 @@
       "image": "/placeholder.svg?height=200&width=300&text=Aphrodite+CNC",
       "technologies": ["Node.js", "Telegram API", "MongoDB"],
       "impact": "Centralized control hub for all Aphrodite-based services."
-    },
-    {
-      "title": "Aphrodite WebStress",
-      "description": "A network stress testing tool developed for controlled simulation and mitigation research.",
-      "image": "/placeholder.svg?height=200&width=300&text=Aphrodite+WebStress",
-      "technologies": ["Node.js", "Express", "Docker"],
-      "impact": "Used in educational settings for safe DDoS attack simulations."
     }
   ],
   "skills": [
-    { "category": "Web Development", "items": ["HTML", "CSS", "JavaScript"], "level": 3 },
-    { "category": "Cybersecurity", "items": ["Penetration Testing", "DDoS Mitigation", "Wireshark"], "level": 4 }
+    {"category": "Web Development", "items": ["HTML", "CSS", "JavaScript"], "level": 3}
   ],
   "achievements": [
     {
