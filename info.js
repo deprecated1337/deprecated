@@ -29,7 +29,7 @@ const experience = [
 
 const projects = [
   {
-    title: "Aphrodite CNC",
+    title: "Aphrodite CNC (Contributions)",
     description: "Command-and-control styled interface for managing bots and automations.",
     image: "/placeholder.svg?height=200&width=300&text=Aphrodite+CNC",
     technologies: ["Node.js", "Telegram API", "MongoDB"],
@@ -45,7 +45,7 @@ const projects = [
     impact: "Used in educational settings for safe DDoS attack simulations."
   },
   {
-    title: "Aphrodite API Manager",
+    title: "Aphrodite API Manager (Contributions)",
     description: "A lightweight API key manager and analytics dashboard for bot APIs.",
     image: "/placeholder.svg?height=200&width=300&text=Aphrodite+API+Manager",
     technologies: ["Node.js", "JWT", "MongoDB"],
@@ -53,7 +53,7 @@ const projects = [
     impact: "Improved API access control and analytics for bot services."
   },
   {
-    title: "Aphrodite Telegram",
+    title: "Aphrodite Telegram (Contributions)",
     description: "A Telegram networking bot with user plans and customization options.",
     image: "/placeholder.svg?height=200&width=300&text=Aphrodite+Telegram",
     technologies: ["Node.js", "Telegram Bot API"],
@@ -84,7 +84,7 @@ const certifications = [
 ];
 
 const summaryStats = {
-  totalProjects: "20+",
+  totalProjects: "4+",
   yearsExperience: "2+",
-  teamProjects: "10+",
+  teamProjects: "4+",
 };
